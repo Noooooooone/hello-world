@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+OK,i'm in.
+Let's strat leraning how to use github
